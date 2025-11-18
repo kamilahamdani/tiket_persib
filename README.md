@@ -2,14 +2,17 @@
 
 ## Beranda
 ![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/beranda1.png?raw=true)
+
 ![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/beranda2.png?raw=true)
 
 ## Pilih tiket
 ![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/match.png?raw=true)
+
 ![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/match1.png?raw=true)
 
 ## Pilih kursi
 ![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/match2.png?raw=true)
+
 ![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/match3.png?raw=true)
 
 ## Pembayaran
