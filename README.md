@@ -3,8 +3,8 @@
 # Tampilan Aplikasi Tiket Persib
 
 ## Beranda
-![Home](assets/images/beranda1.png)
-![Home](assets/images/beranda2.png)
+![images alt](assets/images/beranda1.png)
+![images alt](assets/images/beranda2.png)
 
 ## Pilih tiket
 ![Seat](assets/images/match.png)
