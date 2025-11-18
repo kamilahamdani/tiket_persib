@@ -3,8 +3,6 @@
 ## Beranda
 ![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/beranda1.png?raw=true)
 
-![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/beranda2.png?raw=true)
-
 ## Pilih tiket
 ![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/match.png?raw=true)
 
