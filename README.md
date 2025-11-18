@@ -26,8 +26,8 @@
 ## store
 ![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/store.png?raw=true)
 
-## Benefits
-![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/benefits.png?raw=true)
+## Benetifts
+![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/benetifts.png?raw=true)
 
 ## profile
 ![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/profile.png?raw=true)
