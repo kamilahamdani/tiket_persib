@@ -3,8 +3,8 @@
 # Tampilan Aplikasi Tiket Persib
 
 ## Beranda
-![images alt](assets/images/beranda1.png)
-![images alt](assets/images/beranda2.png)
+![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/beranda1.png?raw=true)
+![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/beranda2.png?raw=true)
 
 ## Pilih tiket
 ![Seat](assets/images/match.png)
