@@ -1,5 +1,3 @@
-# tiket_persib
-
 # Tampilan Aplikasi Tiket Persib
 
 ## Beranda
@@ -7,16 +5,15 @@
 ![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/beranda2.png?raw=true)
 
 ## Pilih tiket
-![Seat](assets/images/match.png)
-![Seat](assets/images/match1.png)
+![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/match.png?raw=true)
+![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/match1.png?raw=true)
 
 ## Pilih kursi
-![Seat](assets/images/match2.png)
-![Seat](assets/images/match3.png)
+![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/match2.png?raw=true)
+![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/match3.png?raw=true)
 
 ## Pembayaran
-![Payment](assets/images/match4.png)
+![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/match4.png?raw=true)
 
 ## Bukti Transaksi
-![Receipt](assets/images/match5.png)
-
+![images alt](https://github.com/kamilahamdani/tiket_persib/blob/main/match5.png?raw=true)
