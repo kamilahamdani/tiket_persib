@@ -1,3 +1,22 @@
 # tiket_persib
 
-A new Flutter project.
+# Tampilan Aplikasi Tiket Persib
+
+## Beranda
+![Home](assets/images/beranda1.png)
+![Home](assets/images/beranda2.png)
+
+## Pilih tiket
+![Seat](assets/images/match.png)
+![Seat](assets/images/match1.png)
+
+## Pilih kursi
+![Seat](assets/images/match2.png)
+![Seat](assets/images/match3.png)
+
+## Pembayaran
+![Payment](assets/images/match4.png)
+
+## Bukti Transaksi
+![Receipt](assets/images/match5.png)
+
